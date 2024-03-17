@@ -12,7 +12,7 @@
 7. Рекурентные нейронные сети. GRU, LSTM на Pytorch. Задача NER.
 8. GAN на Pytorch.
 9. Bert и Transformer на Pytorch
-10. Face Detection and Emotion Recognition
+10. Распознавание лиц и эмоций
 
 ### План:
 - [x] Тензоры, автодифференцирование
@@ -24,4 +24,4 @@
 - [ ] Рекурентные нейронные сети. GRU, LSTM на Pytorch. Задача NER.
 - [ ] GAN на Pytorch.
 - [ ] Bert и Transformer на Pytorch
-- [ ] Face Detection and Emotion Recognition
+- [ ] Распознавание лиц и эмоций
